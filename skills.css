@@ -1,0 +1,35 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f4f4f4;
+	color: #333;
+	margin: 0;
+	padding: 20px;
+}
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	background-color: #fff;
+	border-radius: 8px;
+	padding: 20px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+	color: #333;
+	text-align: center;
+	margin-bottom: 40px;
+}
+.skill {
+	margin-bottom: 20px;
+}
+.skill h2 {
+	margin-top: 0;
+	font-size: 24px;
+}
+.skill p {
+	margin-top: 0;
+	font-size: 16px;
+}
+.highlight {
+	color: #ff6600;
+	font-weight: bold;
+}
